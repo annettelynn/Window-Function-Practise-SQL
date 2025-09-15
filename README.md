@@ -1,5 +1,5 @@
 # Window-Function-Practice-SQL
-A window function performs a calculation across a set of table rows that are somehow related to the current row. Window functions have an OVER clause; any function without an OVER clause is not a window function, but rather an aggregate or single-row function. I uploaded some use cases of Window Function commonly used for data categorization. 
+A window function performs a calculation across a set of table rows that are somehow related to the current row. Window functions have an OVER clause; any function without an OVER clause is not a window function, but rather an aggregate or single-row function. I uploaded some use cases of Window Function commonly used for data categorization. This is a part of what I learnt in a data course. 
 
 
 ## LEVEL 1: CALCULATING SUMMARY WITH OVER()
